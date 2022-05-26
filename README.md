@@ -2,6 +2,9 @@
 ## Description
 This Repository is a fork of [ST - Suckless Terminal](https://st.suckless.org).
 
+## Screenshots
+![Image](./Assets/st.png)
+
 ## Changes
 ### Patches
 - [ScrollBack](https://st.suckless.org/patches/scrollback/st-scrollback-20210507-4536f46.diff)
